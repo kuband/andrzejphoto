@@ -2244,22 +2244,22 @@ input[type='radio'] + label:before {
 }
 
 ::-webkit-input-placeholder {
-  color: #a8b0b3 !important;
+  color: #757d80 !important;
   opacity: 1;
 }
 
 :-moz-placeholder {
-  color: #a8b0b3 !important;
+  color: #757d80 !important;
   opacity: 1;
 }
 
 ::-moz-placeholder {
-  color: #a8b0b3 !important;
+  color: #757d80 !important;
   opacity: 1;
 }
 
 :-ms-input-placeholder {
-  color: #a8b0b3 !important;
+  color: #757d80 !important;
   opacity: 1;
 }
 
