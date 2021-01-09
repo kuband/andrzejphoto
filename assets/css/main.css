@@ -2331,7 +2331,7 @@ input[type='radio'] + label:before {
 }
 
 .icon.major:before {
-  font-size: 2.5em;
+  font-size: 1.5em;
 }
 
 /* Image */
@@ -2457,6 +2457,7 @@ ul.icons-grid {
   list-style: none;
   padding: 0;
   position: relative;
+  margin: 0 0 0 0;
 }
 
 ul.icons-grid li {
@@ -3007,6 +3008,16 @@ button:disabled,
   min-width: 12em;
 }
 
+#flag {
+  position: relative;
+}
+
+#flag img {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  width: 32px;
+}
 /* Footer */
 
 #footer {
@@ -3281,7 +3292,6 @@ button:disabled,
   .main .container .image.primary:first-child {
     margin: -2em 0 2.5em 0;
   }
-
   /* Footer */
 
   #footer .container {
