@@ -2901,7 +2901,7 @@ button:disabled,
   -webkit-transition: background-color 0.2s ease-in-out;
   -ms-transition: background-color 0.2s ease-in-out;
   transition: background-color 0.2s ease-in-out;
-  background-color: rgba(144, 144, 144, 0.9);
+  background-color: rgba(144, 144, 144, 0.8);
   background-image: url('images/arrow.svg');
   background-position: center center;
   background-repeat: no-repeat;
@@ -2921,7 +2921,11 @@ button:disabled,
 }
 
 .main .goto-next:hover {
-  background-color: rgba(144, 144, 144, 0.15);
+  background-color: rgba(144, 144, 144, 0.3);
+}
+
+.main .goto-next2:hover {
+  background-color: rgba(144, 144, 144, 0.9);
 }
 
 /* Header */
