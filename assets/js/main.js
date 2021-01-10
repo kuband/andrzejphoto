@@ -135,7 +135,7 @@
 
     // Scrollex.
     $this.scrollex({
-      mode: 'top',
+      mode: 'middle',
       delay: 50,
       top: '-10vh',
       bottom: '-10vh',
