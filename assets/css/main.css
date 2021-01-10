@@ -3021,8 +3021,8 @@ button:disabled,
 
 #flag a {
   position: absolute;
-  top: 5px;
-  right: 5px;
+  top: 20px;
+  right: 20px;
   width: 32px;
   height: 32px;
   z-index: 1;
