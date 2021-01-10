@@ -3015,16 +3015,16 @@ button:disabled,
 
 #flag img {
   position: absolute;
-  width: 32px;
+  width: 24px;
   text-decoration: none;
 }
 
 #flag a {
   position: absolute;
-  top: 20px;
-  right: 20px;
-  width: 32px;
-  height: 32px;
+  top: 25px;
+  right: 10px;
+  width: 24px;
+  height: 24px;
   z-index: 1;
   text-decoration: none;
   margin: 0;
