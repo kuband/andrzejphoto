@@ -54,10 +54,6 @@
 
     // Enable touch mode.
     $html.addClass('is-touch');
-
-    $('.scrolly').scrolly({
-      speed: 1500,
-    });
   } else {
     // Scrolly.
     $('.scrolly').scrolly({
