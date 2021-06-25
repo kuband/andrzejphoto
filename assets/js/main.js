@@ -53,7 +53,7 @@
     });
 
     // Enable touch mode.
-    $html.addClass('is-touch');
+    // $html.addClass('is-touch');
 
     $('.scrolly').scrolly({
       speed: 1500,
