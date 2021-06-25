@@ -3009,12 +3009,12 @@ button:disabled,
 }
 
 #flag {
-  position: relative;
+  /* position: absolute; */
   text-decoration: none;
 }
 
 #flag img {
-  position: absolute;
+  /* position: absolute; */
   width: 24px;
   text-decoration: none;
 }
@@ -3029,6 +3029,32 @@ button:disabled,
   text-decoration: none;
   margin: 0;
   padding: 0;
+  border: 0;
+}
+
+#icons2 {
+  position: absolute;
+  text-decoration: none;
+  text-align: center;
+}
+
+#icons2 img {
+  position: relative;
+  width: 48px;
+  text-decoration: none;
+  text-align: center;
+}
+
+#icons2 a {
+  position: relative;
+  top: 50px;
+  width: 48px;
+  height: 48px;
+  z-index: 1;
+  text-decoration: none;
+  text-align: center;
+  margin: 0;
+  padding: 5px;
   border: 0;
 }
 /* Footer */
