@@ -3353,16 +3353,16 @@ button:disabled,
   /* Main */
 
   .main .container {
-    padding: 3em 1em 1em 1em;
+    padding: 3em 1.5em 1em 1.5em;
   }
 
   .main .container .image.primary:first-child {
-    margin: -2em 0 2.5em 0;
+    margin: -1.5em 0 2.5em 0;
   }
   /* Footer */
 
   #footer .container {
-    padding: 3em 1em 1em 1em;
+    padding: 3em 1.5em 1em 1.5em;
   }
 
   #footer footer .copyright {
