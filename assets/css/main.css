@@ -395,7 +395,7 @@ pre code {
   width: 100%;
 }
 
-@media screen and (max-width: 980px) {
+/* @media screen and (max-width: 980px) {
   .container {
     width: 80% !important;
     max-width: 100% !important;
@@ -406,7 +406,7 @@ pre code {
   .container {
     width: 100% !important;
   }
-}
+} */
 
 /* Row */
 
