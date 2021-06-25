@@ -3326,16 +3326,16 @@ button:disabled,
   /* Main */
 
   .main .container {
-    padding: 3em 1.5em 1em 1.5em;
+    padding: 3em 1em 1em 1em;
   }
 
   .main .container .image.primary:first-child {
-    margin: -1.5em 0 2.5em 0;
+    margin: -2em 0 2.5em 0;
   }
   /* Footer */
 
   #footer .container {
-    padding: 3em 1.5em 1em 1.5em;
+    padding: 3em 1em 1em 1em;
   }
 
   #footer footer .copyright {
@@ -3348,8 +3348,4 @@ button:disabled,
     margin: 0;
     padding: 0;
   }
-
-  /* #header .container {
-    display: none;
-  } */
 }
