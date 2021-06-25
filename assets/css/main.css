@@ -3033,9 +3033,10 @@ button:disabled,
 }
 
 #icons2 {
-  position: absolute;
+  position: relative;
   text-decoration: none;
   text-align: center;
+  bottom: 2em;
 }
 
 #icons2 img {
@@ -3054,7 +3055,7 @@ button:disabled,
   text-decoration: none;
   text-align: center;
   margin: 0;
-  padding: 5px;
+  padding: 0 5px 0 0;
   border: 0;
 }
 /* Footer */
