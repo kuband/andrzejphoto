@@ -3058,6 +3058,33 @@ button:disabled,
   padding: 0 5px 0 0;
   border: 0;
 }
+
+#icons3 {
+  position: relative;
+  text-decoration: none;
+  /* text-align: center; */
+  bottom: 2em;
+}
+
+#icons3 img {
+  position: relative;
+  width: 48px;
+  text-decoration: none;
+  /* text-align: center; */
+}
+
+#icons3 a {
+  position: relative;
+  top: 50px;
+  width: 48px;
+  height: 48px;
+  z-index: 1;
+  text-decoration: none;
+  /* text-align: center; */
+  margin: 0;
+  padding: 0 5px 0 0;
+  border: 0;
+}
 /* Footer */
 
 #footer {
