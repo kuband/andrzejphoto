@@ -3375,7 +3375,6 @@ button:disabled,
     margin: 0;
     padding: 0;
   }
-
   /* #header .container {
     display: none;
   } */
@@ -3383,6 +3382,6 @@ button:disabled,
   /* Footer */
 
   #footer .container {
-    padding: 3em 1em 1em 1em;
+    padding: 3em 1.01em 1em 1.01em;
   }
 }
